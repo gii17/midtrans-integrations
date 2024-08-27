@@ -1,0 +1,25 @@
+{
+    "name": "gii/midtrans-integration",
+    "description": "Integration midtranst with laravel 10",
+    "type": "library",
+    "require": {
+        "php": ">=7.4.3",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gii\\MidtransIntegration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alghi",
+            "email": "alghiarrifrahman@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/gii/midtrans-integration",
+    "keywords": ["laravel", "midtrans", "integration"],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
