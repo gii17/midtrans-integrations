@@ -21,5 +21,6 @@
     "homepage": "https://github.com/gii/midtrans-integration",
     "keywords": ["laravel", "midtrans", "integration"],
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+     "version": "1.0.0"
 }
