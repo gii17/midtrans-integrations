@@ -1,8 +1,8 @@
 <?php
 
-namespace src;
+namespace Gii\MidtransIntegration;
 
-class test {
+class Test {
     function test() {
         return "test package";
     }
